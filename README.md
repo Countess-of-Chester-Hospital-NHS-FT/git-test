@@ -1,3 +1,3 @@
-# git_sop
-For testing out git sop
+# git test
+For testing out git/ github things.
 Here is my new line of text.
