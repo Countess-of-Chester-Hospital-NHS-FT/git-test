@@ -7,3 +7,5 @@ Require a pull request before merging
 Added myself as codeowner
 
 Required review only from codeowner
+
+* added text
